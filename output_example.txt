@@ -1,0 +1,80 @@
+Experimentation  1
+        Testset:
+                Error rate:                             0.89010
+                Mean squared error:             0.92305
+                Number of iterations:   6
+        K-Fold:
+                Mean squared error: 0.87998
+
+Experimentation  2
+        Testset:
+                Error rate:                             0.15595
+                Mean squared error:             0.06477
+                Number of iterations:   138
+        K-Fold:
+                Mean squared error: 0.04920
+
+Experimentation  3
+        Testset:
+                Error rate:                             0.62821
+                Mean squared error:             0.53381
+                Number of iterations:   121
+        K-Fold:
+                Mean squared error: 0.53262
+
+Experimentation  4
+        Testset:
+                Error rate:                             0.85706
+                Mean squared error:             0.85697
+                Number of iterations:   18
+        K-Fold:
+                Mean squared error: 0.87183
+
+Experimentation  5
+        Testset:
+                Error rate:                             0.82923
+                Mean squared error:             0.81487
+                Number of iterations:   16
+        K-Fold:
+                Mean squared error: 0.87110
+
+Experimentation  6
+        Testset:
+                Error rate:                             0.70452
+                Mean squared error:             0.64225
+                Number of iterations:   366
+        K-Fold:
+                Mean squared error: 0.62029
+
+Experimentation  7
+        Testset:
+                Error rate:                             0.85075
+                Mean squared error:             0.84459
+                Number of iterations:   364
+        K-Fold:
+                Mean squared error: 0.83851
+
+Experimentation  8
+        Testset:
+                Error rate:                             0.86636
+                Mean squared error:             0.87557
+                Number of iterations:   17
+        K-Fold:
+                Mean squared error: 0.85098
+
+Experimentation  9
+        Testset:
+                Error rate:                             0.70131
+                Mean squared error:             0.61810
+                Number of iterations:   380
+        K-Fold:
+                Mean squared error: 0.60405
+
+Experimentation  10
+        Testset:
+                Error rate:                             0.80089
+                Mean squared error:             0.76725
+                Number of iterations:   40
+        K-Fold:
+                Mean squared error: 0.70576
+                
